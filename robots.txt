@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://water-damage-san-marcos.onrender.com/sitemap.xml
